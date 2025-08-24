@@ -69,8 +69,7 @@ cd HotelReservation
 Select an iOS Simulator (e.g., iPhone 16).
 Press Cmd + R to build & run.
 
-[Preview
-]([url](https://drive.google.com/file/d/1Sdg7xzxQ_H9qi5Ler2TptXyqBFWZqGyS/view?usp=sharing))
+Live preview - https://drive.google.com/file/d/1Sdg7xzxQ_H9qi5Ler2TptXyqBFWZqGyS/view?usp=sharing
 
 🔮 Future Improvements
 
