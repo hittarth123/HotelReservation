@@ -162,10 +162,6 @@ struct CollapsedPickerView: View {
                 Text(description)
             }
         }
-//        .padding()
-//        .background(.white)
-//        .clipShape(RoundedRectangle(cornerRadius: 12))
-//        .padding()
-//        .shadow(radius: 10)
+
     }
 }
